@@ -1,2 +1,2 @@
 # DSA-
-This is my data structure and algorithm
+This is my data structure and algorithm using C
